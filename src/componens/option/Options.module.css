@@ -1,0 +1,24 @@
+.button {
+  color: white;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 18px;
+  background-color: green;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+  display: block;
+  min-width: 77px;
+  height: 38px;
+  border: none;
+  border-radius: 30px;
+  transition: 175ms ease-in-out;
+  text-align: center;
+  margin: 0 auto;
+}
+.model {
+  display: flex;
+}
+.button:hover {
+  background-color: rgb(8, 161, 8);
+}
